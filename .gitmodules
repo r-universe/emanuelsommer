@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "portvine"]
+	path = portvine
+	url = https://github.com/emanuelsommer/portvine
+	shallow = true
+	registered = true
